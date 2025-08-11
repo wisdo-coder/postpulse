@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # My App 
+=======
+>>>>>>> 16dbf9aaa13f3caff35e471832f50602f23bf0e3
 PostPulse
 
 AI-powered Social Media Content Generator & Scheduler
@@ -27,7 +30,10 @@ Tech Stack
     AI Integration: OpenAI API / Hugging Face Models
 
     Hosting: Vercel (Frontend), Render/Heroku (Backend)
+<<<<<<< HEAD
 
 Project Timeline
 
 PostPulse will be developed in 14 days following a structured day-by-day plan, from setup to launch.
+=======
+>>>>>>> 16dbf9aaa13f3caff35e471832f50602f23bf0e3
